@@ -45,3 +45,6 @@ initiatives improving service delivery and sustainability
 **Advanced Diploma, Graphic Design (First Year),** Humber Polytechnic, ON
 
 **Honours Bachelor of Science, Psychology,** University of Toronto, ON (2023)
+
+![Headshot Illustration](/portfolio/desn103-assignment4-MadeleineJay.png "Headshot Illustration")
+
