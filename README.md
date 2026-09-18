@@ -14,8 +14,8 @@ Design • Creative Thinking • Communication • Time Management • Adaptabil
 
 ###  Professional Experience
 #### Marketing Specialist, Credit Canada, North York, ON | May 2025 – Today
-I design and execute visually engaging content across digital and print, combining creative thinking with strategy to
-grow audiences and maintain a consistent brand presence.
+*I design and execute visually engaging content across digital and print, combining creative thinking with strategy to
+grow audiences and maintain a consistent brand presence.*
 * Design in-house creative assets, including hero images, social media creatives, digital ads, website pop-ups,
 and printed materials
 * Pitch design concepts to team members and leadership, incorporating feedback to refine visuals
@@ -29,8 +29,8 @@ campaigns that enhance brand visibility and trust
 messaging standards
 
 #### Marketing Coordinator, Credit Canada, North York, ON | August 2023 – May 2025
-I worked closely with my team to bring creative ideas and campaigns to life, while staying curious, adaptable, and
-always open to learning.
+*I worked closely with my team to bring creative ideas and campaigns to life, while staying curious, adaptable, and
+always open to learning.*
 * Assisted with ongoing marketing and creative projects, contributing ideas and helping execute campaigns
 * Designed social media content, including infographics, carousels, reels, and captions
 
