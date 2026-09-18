@@ -1,18 +1,18 @@
 # Madeleine Jay Resume
 ## Graphic Designer
 
-###ProfessionalSummary###
+### ProfessionalSummary
 Creative graphic design and marketing professional with hands-on experience in digital design, content creation, and
 social media strategy. I craft engaging visuals that maintain brand consistency and connect with audiences, combining
 design thinking and strategic storytelling to deliver impact. Resourceful, organized, and eager to learn, I thrive in
 collaborative, fast-paced creative environments.
 
-**Key Skills**
+### Key Skills**
 Adobe Creative Suite (Illustrator, Photoshop, InDesign) • Typography • Colour Theory • Branding • Social Media
 Design • Creative Thinking • Communication • Time Management • Adaptability • Attention to Detail • Figma
 (learning) • After Effects (learning) • Premiere Pro (learning)
 
-**Professional Experience**
+###  Professional Experience
 Marketing Specialist, Credit Canada, North York, ON | May 2025 – Today
 I design and execute visually engaging content across digital and print, combining creative thinking with strategy to
 grow audiences and maintain a consistent brand presence.
@@ -32,11 +32,13 @@ I worked closely with my team to bring creative ideas and campaigns to life, whi
 always open to learning.
 • Assisted with ongoing marketing and creative projects, contributing ideas and helping execute campaigns
 • Designed social media content, including infographics, carousels, reels, and captions
-Volunteer Experience
+
+### Volunteer Experience
 Chair of the Board, Telecare Distress Line of Greater Simcoe, Orillia, ON | May 2023 – May 2025
 • Led five board members to advance the non-profit’s mission, fostering a collaborative environment
 • Directed and supported one part-time staff member and 20+ volunteers to develop and implement strategic
 initiatives improving service delivery and sustainability
-Education
+
+### Education
 Advanced Diploma, Graphic Design (First Year), Humber Polytechnic, ON
 Honours Bachelor of Science, Psychology, University of Toronto, ON (2023)
