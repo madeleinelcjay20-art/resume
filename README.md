@@ -2,8 +2,6 @@
 ## Graphic Designer
 [LinkedIn](https://www.linkedin.com/in/madeleine-j-9995b61b5/) | +1 (123) 456 7899
 
-[Duck Duck Go](https://duckduckgo.com)
-
 ### Professional Summary
 Creative graphic design and marketing professional with hands-on experience in digital design, content creation, and
 social media strategy. I craft engaging visuals that maintain brand consistency and connect with audiences, combining
