@@ -9,6 +9,8 @@ design thinking and strategic storytelling to deliver impact. Resourceful, organ
 collaborative, fast-paced creative environments.
 
 
+
+
 ### Key Skills
 Adobe Creative Suite (Illustrator, Photoshop, InDesign) • Typography • Colour Theory • Branding • Social Media
 Design • Creative Thinking • Communication • Time Management • Adaptability • Attention to Detail • Figma • After Effects (learning) • Premiere Pro (learning)
