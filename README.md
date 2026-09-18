@@ -1,4 +1,4 @@
-# Madeleine Jay Resume <font color="red">This text is red!</font>
+# Madeleine Jay Resume 
 ## Graphic Designer
 [LinkedIn](https://www.linkedin.com/in/madeleine-j-9995b61b5/) | +1 (123) 456 7899
 
