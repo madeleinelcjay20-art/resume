@@ -1,8 +1,7 @@
 # Madeleine Jay Resume
 ## Graphic Designer
-Schomberg, ON | 416-716-3744 | jaymadeleine@hotmail.com
 
-**ProfessionalSummary **
+###ProfessionalSummary###
 Creative graphic design and marketing professional with hands-on experience in digital design, content creation, and
 social media strategy. I craft engaging visuals that maintain brand consistency and connect with audiences, combining
 design thinking and strategic storytelling to deliver impact. Resourceful, organized, and eager to learn, I thrive in
@@ -12,7 +11,8 @@ collaborative, fast-paced creative environments.
 Adobe Creative Suite (Illustrator, Photoshop, InDesign) • Typography • Colour Theory • Branding • Social Media
 Design • Creative Thinking • Communication • Time Management • Adaptability • Attention to Detail • Figma
 (learning) • After Effects (learning) • Premiere Pro (learning)
-Professional Experience
+
+**Professional Experience**
 Marketing Specialist, Credit Canada, North York, ON | May 2025 – Today
 I design and execute visually engaging content across digital and print, combining creative thinking with strategy to
 grow audiences and maintain a consistent brand presence.
