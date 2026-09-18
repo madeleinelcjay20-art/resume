@@ -1,7 +1,6 @@
 # Madeleine Jay Resume
 ## Graphic Designer
-LinkedIn | +1 (123) 456 7899
-[LinkedIn]([https://duckduckgo.com](https://www.linkedin.com/in/madeleine-j-9995b61b5/))
+[LinkedIn][https://www.linkedin.com/in/madeleine-j-9995b61b5/]| +1 (123) 456 7899
 
 ### Professional Summary
 Creative graphic design and marketing professional with hands-on experience in digital design, content creation, and
