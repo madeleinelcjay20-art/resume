@@ -2,13 +2,13 @@
 ## Graphic Designer
 Schomberg, ON | 416-716-3744 | jaymadeleine@hotmail.com
 
-** Professional Summary **
+**ProfessionalSummary **
 Creative graphic design and marketing professional with hands-on experience in digital design, content creation, and
 social media strategy. I craft engaging visuals that maintain brand consistency and connect with audiences, combining
 design thinking and strategic storytelling to deliver impact. Resourceful, organized, and eager to learn, I thrive in
 collaborative, fast-paced creative environments.
 
-** Key Skills **
+**Key Skills**
 Adobe Creative Suite (Illustrator, Photoshop, InDesign) • Typography • Colour Theory • Branding • Social Media
 Design • Creative Thinking • Communication • Time Management • Adaptability • Attention to Detail • Figma
 (learning) • After Effects (learning) • Premiere Pro (learning)
