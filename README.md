@@ -8,13 +8,9 @@ social media strategy. I craft engaging visuals that maintain brand consistency 
 design thinking and strategic storytelling to deliver impact. Resourceful, organized, and eager to learn, I thrive in
 collaborative, fast-paced creative environments.
 
-
-
-
 ### Key Skills
 Adobe Creative Suite (Illustrator, Photoshop, InDesign) • Typography • Colour Theory • Branding • Social Media
 Design • Creative Thinking • Communication • Time Management • Adaptability • Attention to Detail • Figma • After Effects (learning) • Premiere Pro (learning)
-
 
 ###  Professional Experience
 #### Marketing Specialist, Credit Canada, North York, ON | May 2025 – Today
@@ -38,13 +34,11 @@ always open to learning.*
 * Assisted with ongoing marketing and creative projects, contributing ideas and helping execute campaigns
 * Designed social media content, including infographics, carousels, reels, and captions
 
-
 ### Volunteer Experience
 #### Chair of the Board, Telecare Distress Line of Greater Simcoe, Orillia, ON | May 2023 – May 2025
 * Led five board members to advance the non-profit’s mission, fostering a collaborative environment
 * Directed and supported one part-time staff member and 20+ volunteers to develop and implement strategic
 initiatives improving service delivery and sustainability
-
 
 ### Education
 **Advanced Diploma, Graphic Design (Second Year),** Humber Polytechnic, ON
