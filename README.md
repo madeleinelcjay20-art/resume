@@ -46,5 +46,5 @@ initiatives improving service delivery and sustainability
 
 **Honours Bachelor of Science, Psychology,** University of Toronto, ON (2023)
 
-![Headshot Illustration](/Portfolio/desn103-assignment4-MadeleineJay.png)
+!(/Portfolio/desn103-assignment4-MadeleineJay.png)
 
