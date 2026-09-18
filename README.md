@@ -42,7 +42,7 @@ always open to learning.*
 initiatives improving service delivery and sustainability
 
 ### Education
-**Advanced Diploma, Graphic Design (First Year),** Humber Polytechnic, ON
+**Advanced Diploma, Graphic Design (Second Year),** Humber Polytechnic, ON
 
 **Honours Bachelor of Science, Psychology,** University of Toronto, ON (2023)
 
