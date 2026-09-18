@@ -42,4 +42,5 @@ initiatives improving service delivery and sustainability
 
 ### Education
 **Advanced Diploma, Graphic Design (First Year),** Humber Polytechnic, ON
+
 **Honours Bachelor of Science, Psychology,** University of Toronto, ON (2023)
